@@ -1,0 +1,7 @@
+names:
+- number
+nc: 1
+path: C:/python/try_to_nn/CV_ITMO/sem_1/data_car_number
+train: images/train
+test: images/test
+val: images/val

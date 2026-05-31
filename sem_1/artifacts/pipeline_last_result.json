@@ -1,0 +1,101 @@
+{
+  "image": "C:\\python\\try_to_nn\\CV_ITMO\\sem_1\\data_car_number_labels\\images\\test\\6.jpg",
+  "detector": "C:\\python\\try_to_nn\\CV_ITMO\\sem_1\\data_car_number_labels\\runs\\detect\\car_number_1003263\\weights\\best.pt",
+  "crnn_checkpoint": "C:\\python\\try_to_nn\\CV_ITMO\\sem_1\\artifacts\\crnn_final.pt",
+  "bbox_xyxy": [
+    335,
+    1135,
+    718,
+    1272
+  ],
+  "detector_confidence": 0.029852647334337234,
+  "recognized_plate": "",
+  "crop_path": "C:\\python\\try_to_nn\\CV_ITMO\\sem_1\\artifacts\\pipeline_last_crop.png",
+  "crnn_metrics": {
+    "exact_accuracy": 0.0,
+    "cer": 1.0,
+    "samples": [
+      {
+        "gt": "A001BP54",
+        "pred": ""
+      },
+      {
+        "gt": "A001PC71",
+        "pred": ""
+      },
+      {
+        "gt": "A002KX152",
+        "pred": ""
+      },
+      {
+        "gt": "A002XC763",
+        "pred": ""
+      },
+      {
+        "gt": "A002XY89",
+        "pred": ""
+      },
+      {
+        "gt": "A003CX196",
+        "pred": ""
+      },
+      {
+        "gt": "A004OE23",
+        "pred": ""
+      },
+      {
+        "gt": "A005AX26",
+        "pred": ""
+      },
+      {
+        "gt": "A006AA10",
+        "pred": ""
+      },
+      {
+        "gt": "A007AE799",
+        "pred": ""
+      },
+      {
+        "gt": "A007CH35",
+        "pred": ""
+      },
+      {
+        "gt": "A007CT163",
+        "pred": ""
+      },
+      {
+        "gt": "A009XX123",
+        "pred": ""
+      },
+      {
+        "gt": "A010TB34",
+        "pred": ""
+      },
+      {
+        "gt": "A011AB39",
+        "pred": ""
+      },
+      {
+        "gt": "A011YB42",
+        "pred": ""
+      },
+      {
+        "gt": "A012AA05",
+        "pred": ""
+      },
+      {
+        "gt": "A012AH716",
+        "pred": ""
+      },
+      {
+        "gt": "A015YO82",
+        "pred": ""
+      },
+      {
+        "gt": "A019AX122",
+        "pred": ""
+      }
+    ],
+    "num_samples": 128
+  }
+}

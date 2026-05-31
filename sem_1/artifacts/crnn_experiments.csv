@@ -1,0 +1,4 @@
+name,img_height,img_width,hidden_size,num_layers,lr,augment,epochs,batch_size,max_train_samples,max_test_samples,final_train_loss,exact_accuracy,cer,num_eval_samples
+baseline_32x128,32,128,256,2,0.001,False,2,64,512,128,3.24267041683197,0.0,1.0,128
+wide_input_32x160,32,160,256,2,0.001,False,2,64,512,128,3.3048709630966187,0.0,1.0,128
+augmented_32x128,32,128,256,2,0.001,True,2,64,512,128,3.274460792541504,0.0,1.0,128

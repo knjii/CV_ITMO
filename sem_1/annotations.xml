@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>3715449</id>
+      <size>22</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-03-10 14:28:19.878730+00:00</created>
+      <updated>2026-03-10 14:36:21.056152+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>21</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3714773</id>
+          <start>0</start>
+          <stop>21</stop>
+          <url>https://app.cvat.ai/api/jobs/3715449/dataset/export/api/jobs/3715449</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>Maksim_Shugaev</username>
+        <email>idonotsleepenough@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>car_number</name>
+          <color>#d1a061</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-03-10 14:37:05.128709+00:00</dumped>
+  </meta>
+  <image id="0" name="144.jpg" width="992" height="1025">
+    <box label="car_number" source="manual" occluded="0" xtl="417.26" ytl="527.06" xbr="641.17" ybr="605.01" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="147.jpg" width="950" height="686">
+    <box label="car_number" source="manual" occluded="0" xtl="286.90" ytl="519.90" xbr="466.73" ybr="560.97" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="160.jpg" width="1400" height="1050">
+    <box label="car_number" source="manual" occluded="0" xtl="357.74" ytl="754.98" xbr="503.86" ybr="792.35" z_order="0">
+    </box>
+    <box label="car_number" source="manual" occluded="0" xtl="199.73" ytl="809.34" xbr="291.48" ybr="831.43" z_order="0">
+    </box>
+    <box label="car_number" source="manual" occluded="0" xtl="1203.86" ytl="766.87" xbr="1307.50" ybr="794.05" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="194.jpg" width="1604" height="1070">
+    <box label="car_number" source="manual" occluded="0" xtl="316.43" ytl="757.25" xbr="482.65" ybr="803.99" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="197.jpg" width="1612" height="960">
+    <box label="car_number" source="manual" occluded="0" xtl="996.41" ytl="486.74" xbr="1322.62" ybr="584.60" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="20.jpg" width="1600" height="1200">
+    <box label="car_number" source="manual" occluded="0" xtl="771.90" ytl="717.20" xbr="1086.50" ybr="785.10" z_order="0">
+    </box>
+    <box label="car_number" source="manual" occluded="0" xtl="1404.95" ytl="218.16" xbr="1513.69" ybr="260.87" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="227.jpg" width="1024" height="736">
+    <box label="car_number" source="manual" occluded="0" xtl="243.52" ytl="471.94" xbr="345.94" ybr="498.14" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="23.jpg" width="1200" height="900">
+    <box label="car_number" source="manual" occluded="0" xtl="846.89" ytl="617.96" xbr="1053.69" ybr="711.17" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="238.jpg" width="1901" height="1267">
+    <box label="car_number" source="manual" occluded="0" xtl="587.76" ytl="590.01" xbr="882.98" ybr="657.67" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="241.jpg" width="1000" height="816">
+    <box label="car_number" source="manual" occluded="0" xtl="656.60" ytl="632.84" xbr="755.63" ybr="655.28" z_order="0">
+    </box>
+    <box label="car_number" source="manual" occluded="0" xtl="929.79" ytl="487.59" xbr="957.65" ybr="498.16" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="248.jpg" width="1000" height="837">
+    <box label="car_number" source="manual" occluded="0" xtl="112.02" ytl="565.87" xbr="267.77" ybr="632.23" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="320.jpg" width="1197" height="1024">
+    <box label="car_number" source="manual" occluded="0" xtl="1004.54" ytl="602.06" xbr="1188.46" ybr="693.19" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="324.jpg" width="1600" height="1200">
+    <box label="car_number" source="manual" occluded="0" xtl="453.50" ytl="719.13" xbr="816.60" ybr="870.58" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="376.jpg" width="1434" height="915">
+    <box label="car_number" source="manual" occluded="0" xtl="340.24" ytl="503.10" xbr="560.84" ybr="554.92" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="383.jpg" width="2000" height="1274">
+    <box label="car_number" source="manual" occluded="0" xtl="1197.00" ytl="582.06" xbr="1559.82" ybr="689.26" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="384.jpg" width="1600" height="1200">
+    <box label="car_number" source="manual" occluded="0" xtl="243.79" ytl="816.21" xbr="441.84" ybr="864.76" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="390.jpg" width="1400" height="1050">
+    <box label="car_number" source="manual" occluded="0" xtl="546.33" ytl="642.84" xbr="816.48" ybr="698.91" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="399.jpg" width="1525" height="1193">
+    <box label="car_number" source="manual" occluded="0" xtl="774.15" ytl="818.16" xbr="974.91" ybr="905.03" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="408.jpg" width="1037" height="730">
+    <box label="car_number" source="manual" occluded="0" xtl="364.99" ytl="463.39" xbr="505.56" ybr="490.55" z_order="0">
+    </box>
+    <box label="car_number" source="manual" occluded="0" xtl="161.82" ytl="375.98" xbr="232.69" ybr="394.88" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="58.jpg" width="1626" height="1240">
+    <box label="car_number" source="manual" occluded="0" xtl="374.60" ytl="851.33" xbr="681.79" ybr="917.55" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="6.jpg" width="2000" height="1511">
+    <box label="car_number" source="manual" occluded="0" xtl="338.83" ytl="1136.39" xbr="705.58" ybr="1273.30" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="69.jpg" width="1348" height="945">
+    <box label="car_number" source="manual" occluded="0" xtl="966.88" ytl="719.92" xbr="1070.86" ybr="796.38" z_order="0">
+    </box>
+    <box label="car_number" source="manual" occluded="0" xtl="116.68" ytl="441.62" xbr="157.97" ybr="452.33" z_order="0">
+    </box>
+    <box label="car_number" source="manual" occluded="0" xtl="32.32" ytl="393.06" xbr="49.03" ybr="398.40" z_order="0">
+    </box>
+  </image>
+</annotations>

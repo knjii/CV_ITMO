@@ -1,0 +1,11 @@
+{
+  "precision": 1.0,
+  "recall": 0.8012976788818618,
+  "mAP50": 0.995,
+  "mAP50_95": 0.8955,
+  "images": 3,
+  "instances": 3,
+  "split": "test",
+  "model": "C:\\python\\try_to_nn\\CV_ITMO\\sem_1\\data_car_number_labels\\runs\\detect\\car_number_1003263\\weights\\best.pt",
+  "data": "C:\\python\\try_to_nn\\CV_ITMO\\sem_1\\data_car_number_labels\\data.yaml"
+}
