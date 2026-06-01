@@ -1,0 +1,697 @@
+file_name,image_path,caption,model,prompt
+-01-16-2-3-2-5-15_jpg.rf.3a82c0e7cb6b006df4c9fc87d9b55368.jpg,data/-01-16-2-3-2-5-15_jpg.rf.3a82c0e7cb6b006df4c9fc87d9b55368.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-3-2-5-15_jpg.rf.705a29a51fa44f15dbe29adcaf09d2e0.jpg,data/-01-16-2-3-2-5-15_jpg.rf.705a29a51fa44f15dbe29adcaf09d2e0.jpg,Room full of boxes stacked in a way that looks like a tower.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-3-2-5-20_jpg.rf.ff89baa4ddffc68390a744645a32236d.jpg,data/-01-16-2-3-2-5-20_jpg.rf.ff89baa4ddffc68390a744645a32236d.jpg,"This image depicts a scene within a computer vision lab. The focal point is a large, cardboard box prominently displayed in the foreground. The box is labeled with the brand name ""FLOWER"" and features a graphic of a flower. The box is secured with a metal band around its edges, indicating that it is intended for use in a computer-aided design (CAD) or computer-aided manufacturing (CAM) system. In the background, there are several",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-1-28_jpg.rf.ebeb8cf9d541d5af713ac4414162e366.jpg,data/-01-16-2-4-2-1-28_jpg.rf.ebeb8cf9d541d5af713ac4414162e366.jpg,The woman is looking at a box. She is standing in front of a table with boxes on it. There are people sitting at desks.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-1-43_jpg.rf.ff99aa037d9bfedd3db50d5fb33aec86.jpg,data/-01-16-2-4-2-1-43_jpg.rf.ff99aa037d9bfedd3db50d5fb33aec86.jpg,A computer vision dataset for a computer lab.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-2-25_jpg.rf.1ba567b4c64d53342ed4dc1200fcfa2d.jpg,data/-01-16-2-4-2-2-25_jpg.rf.1ba567b4c64d53342ed4dc1200fcfa2d.jpg,The computer screen is turned off.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-2-33_jpg.rf.e314997ea7789b9c5f6124c04783d3a7.jpg,data/-01-16-2-4-2-2-33_jpg.rf.e314997ea7789b9c5f6124c04783d3a7.jpg,This image shows a woman in front of a camera taking a picture of herself on a scale in a room.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-2-39_jpg.rf.ac94511f8a64fa635875cf11c54c79cb.jpg,data/-01-16-2-4-2-2-39_jpg.rf.ac94511f8a64fa635875cf11c54c79cb.jpg,The woman is carrying several boxes.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-2-42_jpg.rf.965ebc2c5db9acbde62cd8a098f88821.jpg,data/-01-16-2-4-2-2-42_jpg.rf.965ebc2c5db9acbde62cd8a098f88821.jpg,In a room there is a person standing in the middle. There is a table in front of them. There are boxes on the right side.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-3-49_jpg.rf.9ec054286ca8b5b376f1359b5fefbf97.jpg,data/-01-16-2-4-2-3-49_jpg.rf.9ec054286ca8b5b376f1359b5fefbf97.jpg,In this image there is a woman who is holding a glass bottle. There is a table on which there are boxes. There are machines on the table. There are wires on the table. There are cabinets in the room.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-4-20_jpg.rf.f051a8d8b7b3b35fe2976c8f290c456f.jpg,data/-01-16-2-4-2-4-20_jpg.rf.f051a8d8b7b3b35fe2976c8f290c456f.jpg,A woman in a white shirt and black dress looks at a computer monitor. There are desks and computers in the room.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-4-28_jpg.rf.44fe01b2e1af7ceebd9e2d787826b7d6.jpg,data/-01-16-2-4-2-4-28_jpg.rf.44fe01b2e1af7ceebd9e2d787826b7d6.jpg,A.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-5-20_jpg.rf.9491b719e3674a5b0cfe838f6dff6959.jpg,data/-01-16-2-4-2-5-20_jpg.rf.9491b719e3674a5b0cfe838f6dff6959.jpg,"In a computer vision dataset, there is a woman standing in a room with three people. She is holding a camera and looking at something.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-4-2-5-43_jpg.rf.fe278d450f40818555ded39e54b71ee3.jpg,data/-01-16-2-4-2-5-43_jpg.rf.fe278d450f40818555ded39e54b71ee3.jpg,A. person working in a factory.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-1-211_jpg.rf.47ff785686afff295c3db6082306d066.jpg,data/-01-16-2-5-2-1-211_jpg.rf.47ff785686afff295c3db6082306d066.jpg,The computer is working. A person is moving boxes.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-1-24_jpg.rf.ed1e2603da473ea327885c86c48c6aac.jpg,data/-01-16-2-5-2-1-24_jpg.rf.ed1e2603da473ea327885c86c48c6aac.jpg,This image is a computer vision dataset. The scene is an office room with several people sitting at desks. There are several cardboard boxes stacked on the floor.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-1-27_jpg.rf.514b60191e0a885025adc7507042120f.jpg,data/-01-16-2-5-2-1-27_jpg.rf.514b60191e0a885025adc7507042120f.jpg,This image is a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-1-46_jpg.rf.b93cfb670e7036fd2fd68c6a4b44213a.jpg,data/-01-16-2-5-2-1-46_jpg.rf.b93cfb670e7036fd2fd68c6a4b44213a.jpg,This image looks like a computer vision dataset for a factory.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-2-111_jpg.rf.af5b619115aa4495f275ca4c23f52006.jpg,data/-01-16-2-5-2-2-111_jpg.rf.af5b619115aa4495f275ca4c23f52006.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-2-39_jpg.rf.a1e227c539b7bd222b70b017c841db55.jpg,data/-01-16-2-5-2-2-39_jpg.rf.a1e227c539b7bd222b70b017c841db55.jpg,Close up.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-2-39_jpg.rf.b72e4e475a38ea6209f5759dd94bbedb.jpg,data/-01-16-2-5-2-2-39_jpg.rf.b72e4e475a38ea6209f5759dd94bbedb.jpg,The person is looking at the table.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-3-24_jpg.rf.393f405ce20e71631598626f771214c8.jpg,data/-01-16-2-5-2-3-24_jpg.rf.393f405ce20e71631598626f771214c8.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-3-33_jpg.rf.d9ffbdf24dde3bd01d489b0544b37f72.jpg,data/-01-16-2-5-2-3-33_jpg.rf.d9ffbdf24dde3bd01d489b0544b37f72.jpg,The table is empty. Two people are standing near it. A person is holding a piece of paper. A computer is on a desk. A box is on the desk.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-4-12_jpg.rf.2c2d37f49ca9d6022133709049e30cfd.jpg,data/-01-16-2-5-2-4-12_jpg.rf.2c2d37f49ca9d6022133709049e30cfd.jpg,A computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-4-313_jpg.rf.3954592e0369b69a647d64541009fac6.jpg,data/-01-16-2-5-2-4-313_jpg.rf.3954592e0369b69a647d64541009fac6.jpg,"This image is a computer vision dataset. In the foreground, there is a person wearing a mask. In the background, there are boxes, tables, machines, and other objects.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-4-32_jpg.rf.0285b9f9554739d796df747c7dc86737.jpg,data/-01-16-2-5-2-4-32_jpg.rf.0285b9f9554739d796df747c7dc86737.jpg,Image is a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-4-37_jpg.rf.672f909ec80ebedeb9d05e82dbc9b4fb.jpg,data/-01-16-2-5-2-4-37_jpg.rf.672f909ec80ebedeb9d05e82dbc9b4fb.jpg,Image is a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-4-40_jpg.rf.358fbc14dbc2b52ea09c1bbb0a5a5c2d.jpg,data/-01-16-2-5-2-4-40_jpg.rf.358fbc14dbc2b52ea09c1bbb0a5a5c2d.jpg,In a room there is a table with some objects on it and a woman standing on it.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-4-41_jpg.rf.eb0fe1b0673d1b052336fdd229d88989.jpg,data/-01-16-2-5-2-4-41_jpg.rf.eb0fe1b0673d1b052336fdd229d88989.jpg,A computer vision dataset for identifying people in a room.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-5-12_jpg.rf.50f7c8749ae45dae4491dae4759272f5.jpg,data/-01-16-2-5-2-5-12_jpg.rf.50f7c8749ae45dae4491dae4759272f5.jpg,A.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-2-5-2-5-26_jpg.rf.e5c9567d41a1e7c86395f766915dee61.jpg,data/-01-16-2-5-2-5-26_jpg.rf.e5c9567d41a1e7c86395f766915dee61.jpg,This image is a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-115_jpg.rf.90a7bf85c340542376ceb3787787d0ec.jpg,data/-01-16-3-1-3-1-115_jpg.rf.90a7bf85c340542376ceb3787787d0ec.jpg,"In a room with a desk, a person in a black shirt and black shorts is standing in front of a line of yellow and white lines. There is another person sitting behind the person in the black shirt and black shorts. There are several pieces of art on the walls.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-143_jpg.rf.178a761b58b6b8e8c9cdf37d8792fb5a.jpg,data/-01-16-3-1-3-1-143_jpg.rf.178a761b58b6b8e8c9cdf37d8792fb5a.jpg,A computer room has a box on the right and a box on the left.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-143_jpg.rf.aee543d16876b4c1455afd51e1a6d625.jpg,data/-01-16-3-1-3-1-143_jpg.rf.aee543d16876b4c1455afd51e1a6d625.jpg,The office has yellow caution tape marking areas where there are potential security hazards.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-154_jpg.rf.635e7194fda32aa3abcdfad7358570a2.jpg,data/-01-16-3-1-3-1-154_jpg.rf.635e7194fda32aa3abcdfad7358570a2.jpg,A computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-156_jpg.rf.0af8aed7c3f193e3d9f31e655ca2a466.jpg,data/-01-16-3-1-3-1-156_jpg.rf.0af8aed7c3f193e3d9f31e655ca2a466.jpg,The woman in the front of the image has a mask on her head.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-158_jpg.rf.889987de9ad313e53b987ed8c73e65b7.jpg,data/-01-16-3-1-3-1-158_jpg.rf.889987de9ad313e53b987ed8c73e65b7.jpg,The woman in the black blazer is standing in front of a table. She is wearing a mask.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-2114_jpg.rf.a3c363d41be598d825719d206b9961df.jpg,data/-01-16-3-1-3-1-2114_jpg.rf.a3c363d41be598d825719d206b9961df.jpg,"The image shows an office cubicle with three individuals. Two individuals are standing, one in a white shirt and the other in a black jacket, both wearing masks. The third individual, a man, is standing in front of a cluttered table with various electronic devices and tools. The man in the white shirt is holding a cell phone, and the man in the black jacket is holding a remote. The table has a carabiner attached to it, and there are several tools",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-220_jpg.rf.00eee5b7252e98b828f97e571397e4c3.jpg,data/-01-16-3-1-3-1-220_jpg.rf.00eee5b7252e98b828f97e571397e4c3.jpg,"The image shows a computer vision dataset for a research environment. The main visible objects include: - Two people, one standing and one sitting. - A table with various objects on it. - A person standing near the table. - A person standing near the table. - A person sitting near the table. - A person standing near the table. - A person standing near the table. - A person sitting near the table. - A",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-28_jpg.rf.7c03ee6b84bbefce8452dae47f6e4e12.jpg,data/-01-16-3-1-3-1-28_jpg.rf.7c03ee6b84bbefce8452dae47f6e4e12.jpg,This image is a photo of a room. There are three women in the room. Two of them are wearing masks. There is a table with a box on it. There are other tables and chairs. There are other people in the room.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-311_jpg.rf.7a755bc7e987828f2b5b08745f800ee6.jpg,data/-01-16-3-1-3-1-311_jpg.rf.7a755bc7e987828f2b5b08745f800ee6.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-3125_jpg.rf.366f96f4f3c9b4f81deaf519bce51867.jpg,data/-01-16-3-1-3-1-3125_jpg.rf.366f96f4f3c9b4f81deaf519bce51867.jpg,Image is a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-3134_jpg.rf.2eab72c127f5a0c12c02dbbd4aa1935e.jpg,data/-01-16-3-1-3-1-3134_jpg.rf.2eab72c127f5a0c12c02dbbd4aa1935e.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-3134_jpg.rf.fa399f7870e17ea682deca6f4efe580c.jpg,data/-01-16-3-1-3-1-3134_jpg.rf.fa399f7870e17ea682deca6f4efe580c.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-3134_jpg.rf.ffaa0a954bcc91560fb47a9704e55a26.jpg,data/-01-16-3-1-3-1-3134_jpg.rf.ffaa0a954bcc91560fb47a9704e55a26.jpg,2 more pictures.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-3136_jpg.rf.02ae285bb2416afe8d515c18c4042f7c.jpg,data/-01-16-3-1-3-1-3136_jpg.rf.02ae285bb2416afe8d515c18c4042f7c.jpg,A computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-3145_jpg.rf.4f61b91f63652aefa6e9a61c60c1ec04.jpg,data/-01-16-3-1-3-1-3145_jpg.rf.4f61b91f63652aefa6e9a61c60c1ec04.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-329_jpg.rf.53c50adef42cd158c5c25e8778ddf59f.jpg,data/-01-16-3-1-3-1-329_jpg.rf.53c50adef42cd158c5c25e8778ddf59f.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-336_jpg.rf.9d71a93f1a55d493b8b5de9c0fb1e752.jpg,data/-01-16-3-1-3-1-336_jpg.rf.9d71a93f1a55d493b8b5de9c0fb1e752.jpg,Two people standing in an office area. Two women standing in an office area. A table with boxes on it. A box on the table. A bottle on the table. A box on the table. A person in the background. A door with an exit sign.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-345_jpg.rf.12d59814cf3e3e681bae35a0907989c8.jpg,data/-01-16-3-1-3-1-345_jpg.rf.12d59814cf3e3e681bae35a0907989c8.jpg,Computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-351_jpg.rf.62d10ef4893392dd66b9bb347981d4ae.jpg,data/-01-16-3-1-3-1-351_jpg.rf.62d10ef4893392dd66b9bb347981d4ae.jpg,"Fourteen objects: a table, boxes, a bottle, a suitcase, computers, a door, a sign, a light, a chair, a chair, a chair, a suitcase, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair, a chair",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-355_jpg.rf.a9662ab697b6d5482db430745af9ac09.jpg,data/-01-16-3-1-3-1-355_jpg.rf.a9662ab697b6d5482db430745af9ac09.jpg,A.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-358_jpg.rf.1773685846e6b358e49a07a924b409d6.jpg,data/-01-16-3-1-3-1-358_jpg.rf.1773685846e6b358e49a07a924b409d6.jpg,More image.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-377_jpg.rf.7c831604a49603c21976d519c5006733.jpg,data/-01-16-3-1-3-1-377_jpg.rf.7c831604a49603c21976d519c5006733.jpg,"2 cubicles, two people, boxes, table, glass, phone, box, clock, items, air conditioner, vent, door, drawers, cabinets, air conditioner, air conditioner fans, air conditioner fans, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes, boxes",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-382_jpg.rf.f22143bc87911e9ad422abc2254bee6b.jpg,data/-01-16-3-1-3-1-382_jpg.rf.f22143bc87911e9ad422abc2254bee6b.jpg,A computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-438_jpg.rf.bf6fb9f0958f6ec7e6ec733656d499db.jpg,data/-01-16-3-1-3-1-438_jpg.rf.bf6fb9f0958f6ec7e6ec733656d499db.jpg,This image is a 3d panoramic image of a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-456_jpg.rf.7e0d54645cd7cba46d3413c97c4f7daf.jpg,data/-01-16-3-1-3-1-456_jpg.rf.7e0d54645cd7cba46d3413c97c4f7daf.jpg,Two men are playing with wii in a room.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-466_jpg.rf.bb378c864e171fa8ce762995b00e8ebc.jpg,data/-01-16-3-1-3-1-466_jpg.rf.bb378c864e171fa8ce762995b00e8ebc.jpg,1. 3 rows of cubicles. 2. 2 women standing near a table. 3. 2 people standing near a table. 4. 2 people sitting at a table. 5. 2 people standing near a table. 6. 2 people sitting at a table. 7. 2 people standing near a table. 8. 2 people standing near a table. 9. 2 people sitting at a,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-468_jpg.rf.08ab7755c9ca2684cfe71355266939c6.jpg,data/-01-16-3-1-3-1-468_jpg.rf.08ab7755c9ca2684cfe71355266939c6.jpg,"Image Description: 3 people, box, table, electronics, boxes, tape, computer, chairs, filing cabinets, and boxes.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-472_jpg.rf.683beb6dbdca68d2cc78dd90b07c5764.jpg,data/-01-16-3-1-3-1-472_jpg.rf.683beb6dbdca68d2cc78dd90b07c5764.jpg,This image shows a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-485_jpg.rf.7944e6b89af71d05f518448cc9fd1696.jpg,data/-01-16-3-1-3-1-485_jpg.rf.7944e6b89af71d05f518448cc9fd1696.jpg,Two people in a room with masks and toxic waste.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-488_jpg.rf.a74f9f7cf615d91841288c20e642cb6a.jpg,data/-01-16-3-1-3-1-488_jpg.rf.a74f9f7cf615d91841288c20e642cb6a.jpg,"In a room there are people, boxes, and a table.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-01-16-3-1-3-1-488_jpg.rf.da8809820ee9aec6c318c695686628ae.jpg,data/-01-16-3-1-3-1-488_jpg.rf.da8809820ee9aec6c318c695686628ae.jpg,This image for a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-1116_jpg.rf.4ed1c7bf673dd20c3b7cea29f36a6743.jpg,data/-03-3-1-1116_jpg.rf.4ed1c7bf673dd20c3b7cea29f36a6743.jpg,"In this image there are two people standing in a room. There are two monitors, keyboards, mice, cups, bottles, and other objects on the table. There are two people standing in front of the table. There are two people standing in front of the table. There are two people standing in front of the table. There are two people standing in front of the table. There are two people standing in front of the table. There are two people standing in front of the",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-111_jpg.rf.1e8aa5db7b63e6ab45addfc2f3438d93.jpg,data/-03-3-1-111_jpg.rf.1e8aa5db7b63e6ab45addfc2f3438d93.jpg,A computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-1129_jpg.rf.df8857e7856b5f5663f74c6b18069ba2.jpg,data/-03-3-1-1129_jpg.rf.df8857e7856b5f5663f74c6b18069ba2.jpg,"This image shows a computer vision dataset. In the foreground, there is a woman wearing a mask. In the background, there are computers, tables, chairs, and other objects.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-139_jpg.rf.e4bd8811746ba5faaaf6ff8499675f46.jpg,data/-03-3-1-139_jpg.rf.e4bd8811746ba5faaaf6ff8499675f46.jpg,"This image shows an office setting with several computer monitors, keyboards, and other office equipment. A person is standing in the foreground, holding a small box with a label that has the word ""guitar"" on it. In the background, there are several people sitting at a desk, some of whom are holding items such as pens and paper.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-169_jpg.rf.2899a8e00a3e4e48479b732f9b7aca69.jpg,data/-03-3-1-169_jpg.rf.2899a8e00a3e4e48479b732f9b7aca69.jpg,"In a computer vision dataset, a person in a gray shirt and khaki shorts is standing in front of a table with a box of markers and a bottle of glue.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-184_jpg.rf.fe1904e629dda7d669fefe144da9cfb1.jpg,data/-03-3-1-184_jpg.rf.fe1904e629dda7d669fefe144da9cfb1.jpg,This image for a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-2108_jpg.rf.ad60dbafd4d3be23de2793872a49f2b5.jpg,data/-03-3-1-2108_jpg.rf.ad60dbafd4d3be23de2793872a49f2b5.jpg,"This image displays a computer vision dataset featuring two images side by side, the first appears to be of a cubicle from a different perspective. The cubicle appears to be set in what appears to be an office environment, with several desks and workstations, including a glass-paneled wall with white walls and clear glass doors. The people in the cubicle are standing and walking, and their clothing and accessories are visible, including jackets, hats, and backpacks. The glass",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-238_jpg.rf.ffd35a5398467cf7f55298083081a540.jpg,data/-03-3-1-238_jpg.rf.ffd35a5398467cf7f55298083081a540.jpg,In this image there is a person throwing something on a table. There are boxes and other objects on the table. There are people working on the table.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-263_jpg.rf.fe68a6f407d74825f32c77be51e958e3.jpg,data/-03-3-1-263_jpg.rf.fe68a6f407d74825f32c77be51e958e3.jpg,This image is a computer vision dataset for a computer vision dataset.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+-03-3-1-264_jpg.rf.ca683cb749581540b021869946b17234.jpg,data/-03-3-1-264_jpg.rf.ca683cb749581540b021869946b17234.jpg,"The image shows a room in a research laboratory. There are three people in the room. Two men are standing on top of luggage, while one man is sitting on top of the luggage. The luggage is black and has a smashed-in face. The room has several tables and desks. On the tables, there are various electronic devices and other office supplies.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000013_jpg.rf.a7b4df633397510725f11d8daa0592cb.jpg,data/0000000013_jpg.rf.a7b4df633397510725f11d8daa0592cb.jpg,"In a room with a white wall on the left, there are two people in blue surgical gowns and white face masks. They are holding their hands together and giving a thumbs up pose. Behind them, there is a poster with the word ""fermei"" on it.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000034_jpg.rf.b1df7212854dfc5d46aa59ad95e41acd.jpg,data/0000000034_jpg.rf.b1df7212854dfc5d46aa59ad95e41acd.jpg,"This is an image of a person wearing a uniform. The person is standing with his hands on his hips. He is wearing gloves and boots. The uniform is grey and blue. The background is white. The text at the top of the image is in red and says ""75元"". The text at the bottom of the image is in red and says ""75元"".",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000059_jpg.rf.7ef4dd1d56d0eeff1f0b6b2825d1948c.jpg,data/0000000059_jpg.rf.7ef4dd1d56d0eeff1f0b6b2825d1948c.jpg,"The group of scientists is gathered in a clinical room. They are wearing white lab coats and surgical caps. Some of them are holding surgical instruments. In the background, there is a clock on the wall and a door.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000062_jpg.rf.08a07298e0d6a4bfbf0a6c08cf7589fc.jpg,data/0000000062_jpg.rf.08a07298e0d6a4bfbf0a6c08cf7589fc.jpg,This image contains a man singing into a microphone. He is wearing a white coat and white gloves.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000066_jpg.rf.894014d1cd8ea3c5447c30422b0c40e2.jpg,data/0000000066_jpg.rf.894014d1cd8ea3c5447c30422b0c40e2.jpg,"A person in military uniform is walking on a red carpet, with a hat, medals, and tags in their uniform.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000081_jpg.rf.a00c27d13fe18149dfc9685e64831d7c.jpg,data/0000000081_jpg.rf.a00c27d13fe18149dfc9685e64831d7c.jpg,A person wears an industrial suit that is waterproof and black. They are standing in a field with trees behind them.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000115_jpg.rf.7225b6f1e2602eaf84c8011a2558c9ae.jpg,data/0000000115_jpg.rf.7225b6f1e2602eaf84c8011a2558c9ae.jpg,"This girl is wearing a white hat with a red pom-pom on the end, a white scarf, and maroon gloves. She is smiling.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000118_jpg.rf.f736e84235a6ff43adde57ec61df7646.jpg,data/0000000118_jpg.rf.f736e84235a6ff43adde57ec61df7646.jpg,A person is holding a white glove with a cute bear character on their hand.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000129_jpg.rf.88e340c78f9d8544486ea9f695507609.jpg,data/0000000129_jpg.rf.88e340c78f9d8544486ea9f695507609.jpg,"This image displays two identical images, each featuring a young woman dressed in a black dress with white polka dots. She is holding a brown, beige, and black dress with both hands, adorned with a black scarf tied around her neck. The background is a neutral, light beige color, which emphasizes the woman's attire and the dress. The images are framed by a plain white wall, and the lighting is soft, casting a warm glow over the scene.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000222_jpg.rf.c5a9d22e625513f99d4f8052035327c0.jpg,data/0000000222_jpg.rf.c5a9d22e625513f99d4f8052035327c0.jpg,"In a hallway, two scientists walk side by side, wearing white PPE, a face mask, and gloves. They are in a corridor with doors on the left and a yellow trash can on the right.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000238_jpg.rf.266895d27815c47482bf1e5b98ed765e.jpg,data/0000000238_jpg.rf.266895d27815c47482bf1e5b98ed765e.jpg,A person wearing white gloves and white vests with Chinese characters on them are seen together.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000241_jpg.rf.80f02965174ec541cd49ccfa89f32bb1.jpg,data/0000000241_jpg.rf.80f02965174ec541cd49ccfa89f32bb1.jpg,"This image depicts a series of hands, each with a different set of gloves, used for various medical procedures. The hands are depicted from left to right, with each hand holding a different object, such as a syringe, a medical instrument, or a medical device. The gloves are blue and appear to be made of latex or a similar material. The hands are arranged in a circular pattern, with the tips of the gloves pointing outward. The background is white, which helps",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000252_jpg.rf.65a1770d348389e9b27be04c77bae359.jpg,data/0000000252_jpg.rf.65a1770d348389e9b27be04c77bae359.jpg,"In this image, there are two people. One person is wearing a mask. There is a van. There is a woman with a mask. There is a person with a bag. There is a building.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000277_jpg.rf.6ac9a12a8d3df53bff82505a9f8795bc.jpg,data/0000000277_jpg.rf.6ac9a12a8d3df53bff82505a9f8795bc.jpg,"In the vehicle, a man and a woman are in a white protective suit, sitting in the backseat of a car. They are eating.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000297_jpg.rf.4a67121e096fd282d301bf30ac2a1e49.jpg,data/0000000297_jpg.rf.4a67121e096fd282d301bf30ac2a1e49.jpg,A woman is looking at the camera with one hand on her face and the other hand on a white metal bar. She is wearing black gloves and a black top.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000312_jpg.rf.8072b6954597c1747cf9995926987782.jpg,data/0000000312_jpg.rf.8072b6954597c1747cf9995926987782.jpg,"This image displays a pair of white, textured, long-sleeved, non-perforating, wrist-length gloves. The gloves are neatly folded and appear to be made of a cotton or a similar material. The edges of the gloves are lined with green rubber bands, which are likely used to secure the gloves in place. The gloves are positioned such that the palm faces up, and the fingers are spread out, giving a realistic impression of the gloves being used for",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000318_jpg.rf.efe7bc46e125474f738543a7158add64.jpg,data/0000000318_jpg.rf.efe7bc46e125474f738543a7158add64.jpg,"In a laboratory, a blue gloved hand is shown. The hand is held out with the palm facing the camera. The gloved hand is labeled with the letters WJSHI.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000360_jpg.rf.e826710b8e79d895fe7d9c4385dba68f.jpg,data/0000000360_jpg.rf.e826710b8e79d895fe7d9c4385dba68f.jpg,"This image shows a group of people in a hallway wearing a white lab coat and face shields. They are all in the same pose, with their hands extended, and they are all looking towards the camera. They are inside a hallway with white walls and frames on the wall. There are several rows of pictures hanging on the wall, and the ceiling has fluorescent lighting.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000372_jpg.rf.4600f5aa0a24e28e5cbda75340bd21f6.jpg,data/0000000372_jpg.rf.4600f5aa0a24e28e5cbda75340bd21f6.jpg,"A man is walking on the sidewalk of a building. He is wearing a long green coat, a light blue shirt, and dark blue pants. He has his hands in his pockets. In the background, there is a tall building with many windows. On the left side, there are some bare trees and bushes. On the right side, there is a light-colored structure with a vent.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000390_jpg.rf.8c4b0645ca6755b39edc2046a8a359d7.jpg,data/0000000390_jpg.rf.8c4b0645ca6755b39edc2046a8a359d7.jpg,"This image shows a group of people walking in a public square. Some people are wearing face masks, and others are not. The people are walking in a group, and they seem to be enjoying the weather. In the background, there is a large building with a sign that says ""Yi'an City Hall."" There are also some trees and street lights visible.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000408_jpg.rf.fcbae13e5ea9f30c4a6a6a8715b78314.jpg,data/0000000408_jpg.rf.fcbae13e5ea9f30c4a6a6a8715b78314.jpg,1. 2 men lying on the carpet on their backs. 2. 1 man in a tan suit is laying on his side. 3. 1 man in a brown jacket is laying on his side. 4. 1 man in black pants is laying on his side. 5. 1 man in brown shoes is laying on his side. 6. 1 man in a tan blazer is laying on his side. 7.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000444_jpg.rf.a16558d8b964d31e21042413fe0cc676.jpg,data/0000000444_jpg.rf.a16558d8b964d31e21042413fe0cc676.jpg,An image of two men in a bathroom with one holding a phone.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000454_jpg.rf.732d0ce5562a4624b65324955bb25f10.jpg,data/0000000454_jpg.rf.732d0ce5562a4624b65324955bb25f10.jpg,"In this image, there is a person's hand, which is wearing a white glove.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000474_jpg.rf.4b6057b2e26b8a6003cf24cc6039a353.jpg,data/0000000474_jpg.rf.4b6057b2e26b8a6003cf24cc6039a353.jpg,"This image displays two hands, each holding a pair of silver-colored screws. The hands are positioned in such a way that the fingers are curled inward, forming a grip for the screws. The gloves are white, and the gloves are tightly wrapped around the hands. The hands are positioned on a wooden surface, which appears to be a table or a workbench. There are several screws scattered around the hands, suggesting that the person is working on a project.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000487_jpg.rf.95bbd264d24ec90b52308b6fc9aea8ea.jpg,data/0000000487_jpg.rf.95bbd264d24ec90b52308b6fc9aea8ea.jpg,"This image displays a person in a blue medical uniform, including a cap and a surgical mask, standing against a beige background. The individual is wearing a surgical mask over their face, which is covering their nose and mouth. They are also wearing a blue long-sleeved shirt and a belt, which is tied around their waist. The person is looking down at their hands, which are visible in front of them. The background is plain and light beige, which makes",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000488_jpg.rf.8678eb6cd0a141ee6a970f54c2daf6c6.jpg,data/0000000488_jpg.rf.8678eb6cd0a141ee6a970f54c2daf6c6.jpg,"In this image, there is a construction worker wearing a safety jacket, a mask, and a hard hat. He is holding a blue and white object in his hand. He is standing in front of a construction site.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000497_jpg.rf.63a1cb3b5eb8cdda62d96e13960871c1.jpg,data/0000000497_jpg.rf.63a1cb3b5eb8cdda62d96e13960871c1.jpg,"2 people in white suits, one with a mask, one with a mask, table with papers, door, poster, and air conditioning.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000563_jpg.rf.976891a8a4219b33636246b8fdbbecec.jpg,data/0000000563_jpg.rf.976891a8a4219b33636246b8fdbbecec.jpg,"This image depicts a group of people gathered in what appears to be a formal event, possibly a business meeting or a formal gathering. The individuals are dressed in formal attire, including suits and ties, which are typical of professional or business settings. The woman in the foreground is wearing a light-colored, off-the-shoulder dress with a floral pattern, which is a classic style for formal wear. Her hair is styled in a short, neat bun, and she is",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000569_jpg.rf.31982c8831cb4dfc528fbcd8bc463235.jpg,data/0000000569_jpg.rf.31982c8831cb4dfc528fbcd8bc463235.jpg,"This image shows a surgical team working in a hospital. A man in a surgical gown and blue surgical cap is holding several small, translucent, plastic objects. These objects are likely medical instruments or surgical instruments. The background shows a sterile environment with various medical equipment and surgical instruments.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000578_jpg.rf.7c38219c3e45e82133c0c97fe9c5fbdb.jpg,data/0000000578_jpg.rf.7c38219c3e45e82133c0c97fe9c5fbdb.jpg,"In this image, we can see gloves on the hands. We can see a person's hand. We can see green leaves.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000581_jpg.rf.df5cc296e606855c295bff0ea7299243.jpg,data/0000000581_jpg.rf.df5cc296e606855c295bff0ea7299243.jpg,"This image shows a computer vision dataset focused on the hands of a person. The hands are being used to massage each other, with the hands of the person on the left receiving a massage from the hands of the person on the right. The hands of the person on the right are being used to massage the hands of the person on the left. The hands of the person on the right are being used to massage the hands of the person on the left.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000586_jpg.rf.b4cb82528cf01e6bb3ade4c6debbdb44.jpg,data/0000000586_jpg.rf.b4cb82528cf01e6bb3ade4c6debbdb44.jpg,This image contains a set of human hand models. The left hand is touching the right hand. The right hand is touching the left hand. The left hand is touching the right hand.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000608_jpg.rf.d5cab416da8bbfd5f5f7511b7ffc06fb.jpg,data/0000000608_jpg.rf.d5cab416da8bbfd5f5f7511b7ffc06fb.jpg,This person in a white lab coat is in a room with blue lines that are divided by a blue border.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000642_jpg.rf.5b7ed01aaa36c2ceaae4a8fd8c7d2fe2.jpg,data/0000000642_jpg.rf.5b7ed01aaa36c2ceaae4a8fd8c7d2fe2.jpg,This image shows a woman applying a white cream to her hand. The cream is on the surface below her hand. The woman has long fingernails with a little bit of polish.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000673_jpg.rf.81ea1967ce4778c0ad77e9ae000d9799.jpg,data/0000000673_jpg.rf.81ea1967ce4778c0ad77e9ae000d9799.jpg,This image contains a hand with the palm facing the viewer. The hand is positioned in such a way that the fingers are spread out. The fingers are slightly curled. The palm of the hand is facing the viewer. The fingers are slightly curled.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000688_jpg.rf.a2ca38c6aac4f887217706dceca457d4.jpg,data/0000000688_jpg.rf.a2ca38c6aac4f887217706dceca457d4.jpg,1. The hands are shown from the palms facing each other. 2. The hands are shown with their palms facing each other. 3. The hands are shown with their fingers spread apart. 4. The hands are shown with their palms together. 5. The hands are shown with their palms together. 6. The hands are shown with their palms together. 7. The hands are shown with their palms together. 8. The hands are shown,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000691_jpg.rf.293120ad2191f68b5df624ec5e7cf6e4.jpg,data/0000000691_jpg.rf.293120ad2191f68b5df624ec5e7cf6e4.jpg,"In this image, there are two people. One person has a ring on their finger. The other person is holding their ear up.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000742_jpg.rf.3fe1e057eb51fbb504f4a3a5542c7c7f.jpg,data/0000000742_jpg.rf.3fe1e057eb51fbb504f4a3a5542c7c7f.jpg,"The hands are open with the palms up, and the gloves are transparent.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000754_jpg.rf.1ae332ec817423d6db320df891eb4474.jpg,data/0000000754_jpg.rf.1ae332ec817423d6db320df891eb4474.jpg,A person is kneeling on the ground with their hands on their stomach.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000764_jpg.rf.d78d231d006948c54beba1c92f2d5d63.jpg,data/0000000764_jpg.rf.d78d231d006948c54beba1c92f2d5d63.jpg,A pair of gloves with black and red stripes are shown. Person's hands are shown with the gloves on. The gloves are on the wrist. The background is gray.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000806_jpg.rf.b73c0ecf922a55610688319feec9808a.jpg,data/0000000806_jpg.rf.b73c0ecf922a55610688319feec9808a.jpg,In this image we can see a man and a woman sitting on a sofa. The woman is wearing a pink dress. The man is wearing a blue jacket. In the background there is a curtain.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000819_jpg.rf.cb4707814cb65af2902363d16db0c4ca.jpg,data/0000000819_jpg.rf.cb4707814cb65af2902363d16db0c4ca.jpg,The students are facing forward with their heads in a twisted position.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000850_jpg.rf.385f75ea4c21a212fcd0e5bf8edf05a8.jpg,data/0000000850_jpg.rf.385f75ea4c21a212fcd0e5bf8edf05a8.jpg,This person is wearing a white shirt and blue gloves. They are in a white uniform.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000854_jpg.rf.6c1b5493c070d41689266e688e18881d.jpg,data/0000000854_jpg.rf.6c1b5493c070d41689266e688e18881d.jpg,The 1st album The 1st Mini Album The 1st Mini Album: The 1st Mini Album: The 1st Mini Album: The 1st Mini Album: The 1st Mini Album: The 1st Mini Album: The 1st Mini Album: The 1st Mini Album: The 1st Mini Album: The 1st Mini Album: The 1st,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000905_jpg.rf.b5776bb831de0f5b8ee93d6aff0b6f67.jpg,data/0000000905_jpg.rf.b5776bb831de0f5b8ee93d6aff0b6f67.jpg,A person's gloved hand is on a wooden table using a computer mouse.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000928_jpg.rf.2ec3009b69d2f8df275bcc4e3e436537.jpg,data/0000000928_jpg.rf.2ec3009b69d2f8df275bcc4e3e436537.jpg,In this image there is a woman wearing a white wedding dress and gloves.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000931_jpg.rf.7162ef32b03ab18351055d0febac0a9f.jpg,data/0000000931_jpg.rf.7162ef32b03ab18351055d0febac0a9f.jpg,"A man in a suit is sitting in a car, in the dashboard of a car, with a screen in the steering wheel, and a mirror in the mirror.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000950_jpg.rf.4ba24baf2cbe18b90d6a3bc98944a2e2.jpg,data/0000000950_jpg.rf.4ba24baf2cbe18b90d6a3bc98944a2e2.jpg,"A person in a white hazmat suit, holding a blue glove, in front of a table with various medical supplies, a yellow box with Chinese text, and a pink sign with Chinese text.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000000967_jpg.rf.2335682c2217671ca768922cf6428202.jpg,data/0000000967_jpg.rf.2335682c2217671ca768922cf6428202.jpg,The woman is standing in front of a white board and is raising her hands. She has a map of the world behind her. She is smiling. There are children sitting at their desks.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000001004_jpg.rf.38dbe791c56b114a671ed3c8609cee76.jpg,data/0000001004_jpg.rf.38dbe791c56b114a671ed3c8609cee76.jpg,A woman in an Asian dress is looking at something with her right hand.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000001040_jpg.rf.08a3d76e71da960f4356ea6b7073ec60.jpg,data/0000001040_jpg.rf.08a3d76e71da960f4356ea6b7073ec60.jpg,This man is wearing a black uniform with gold buttons and a black belt with a gold buckle. He is holding a microphone in his right hand and has a white glove on his left hand. He is looking to the side.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+0000001046_jpg.rf.7e7cef35695ba404b8c03af9bd43cf76.jpg,data/0000001046_jpg.rf.7e7cef35695ba404b8c03af9bd43cf76.jpg,The hands are covered with a blue nitrile glove.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+00596_jpg.rf.9e877550d26a8b01cbdfc022cae536c5.jpg,data/00596_jpg.rf.9e877550d26a8b01cbdfc022cae536c5.jpg,"This image depicts a scene involving three individuals engaged in a discussion. The individuals are dressed in casual attire, with the person on the left wearing a dark-colored shirt and a red helmet. The person in the middle is holding a piece of paper, which appears to be a document or a form. The person on the right is holding a clipboard, and they are also wearing a white shirt with a blue and black graphic on it. The background includes several grey, rectangular blocks",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+116_JPG_jpg.rf.2f079a0caaaa30cb0c1aafaf5d78bee5.jpg,data/116_JPG_jpg.rf.2f079a0caaaa30cb0c1aafaf5d78bee5.jpg,"In this image there is a man standing in front of a building. He is wearing a black t-shirt, blue jeans and black sandals. He is holding a black object in his hands. There is a table on the left side of the image. There are chairs on the right side of the image. There is a window on the left side of the image.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+122_JPG_jpg.rf.d6cc999883c9b9237bdca87dde33a9aa.jpg,data/122_JPG_jpg.rf.d6cc999883c9b9237bdca87dde33a9aa.jpg,The man in front of the camera is wearing a mask and green gloves. He is standing in a room with a table and some other objects.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+129_jpg.rf.3e57cc417ccf65668ea6ae59499c1ce7.jpg,data/129_jpg.rf.3e57cc417ccf65668ea6ae59499c1ce7.jpg,"This image is a collage of 4 images, each showing a different scene and action. The top left image shows an orange traffic cone, a person wearing a white baseball cap, and a grassy area. The top right image shows a person wearing a white baseball cap and a white shirt, standing in front of a white wall. The bottom left image shows a person wearing a black shirt and a white helmet, standing on a grassy area. The bottom right image shows a person wearing",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+132_JPG_jpg.rf.6c0813980236bb0f9100b948b3b464f5.jpg,data/132_JPG_jpg.rf.6c0813980236bb0f9100b948b3b464f5.jpg,A person wearing a helmet and mask to protect their face. They are facing towards the left.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+135_JPG_jpg.rf.c0936d8a56a14a25559eb2dbd94cd290.jpg,data/135_JPG_jpg.rf.c0936d8a56a14a25559eb2dbd94cd290.jpg,"This man is standing in a factory, wearing a mask, gloves, and a helmet. He is looking at the camera.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+135e-huxwryw6451820_jpg.rf.3ad5f3daeb7dfcea822eb204ba90d9c0.jpg,data/135e-huxwryw6451820_jpg.rf.3ad5f3daeb7dfcea822eb204ba90d9c0.jpg,"This image is a collage of five images, each featuring a different scene and action. The top left image shows a close-up of a person wearing glasses and a white surgical mask. The top right image shows a close-up of a person wearing a black shirt and a white surgical mask. The bottom left image shows a close-up of a woman wearing a white surgical mask and a black surgical mask. The bottom right image shows a motorcycle parked on a paved road with yellow",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+14_JPG_jpg.rf.5e6e28df79098fbdce27a3bb7d9d8557.jpg,data/14_JPG_jpg.rf.5e6e28df79098fbdce27a3bb7d9d8557.jpg,This person is standing in a factory where the floor is painted in green and yellow.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+154_JPG_jpg.rf.c5bc98c7aed954cf539320ace503e509.jpg,data/154_JPG_jpg.rf.c5bc98c7aed954cf539320ace503e509.jpg,A man in a lab setting with a hard hat and green gloves in front of a large metal structure.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+185_JPG_jpg.rf.a6e46fb0c6a759bf17439c9d36cdc629.jpg,data/185_JPG_jpg.rf.a6e46fb0c6a759bf17439c9d36cdc629.jpg,"A woman in a blue work uniform, wearing a mask, holding a black cloth, standing in a room with green gloves and green work gloves, in the background, shelves, lights, wooden cabinets, pipes, and a red object.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+213_JPG_jpg.rf.a672307c3388e605e2a56223532b1849.jpg,data/213_JPG_jpg.rf.a672307c3388e605e2a56223532b1849.jpg,"This person is inside a building, he is wearing a hard hat, and he is wearing a mask. He is also wearing a blue shirt. He is also wearing a safety hat. He is also wearing a grey face mask. He is also wearing a brown shirt. He is also wearing a brown shirt with a white collar.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+218_JPG_jpg.rf.2e42ed229df764840619bc3f97d96a7a.jpg,data/218_JPG_jpg.rf.2e42ed229df764840619bc3f97d96a7a.jpg,"A worker in a blue uniform with a white mask stands with a yellow glove in his right hand, giving a thumbs up.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+220_JPG_jpg.rf.bca209ece13e8cbd56d0333175a04319.jpg,data/220_JPG_jpg.rf.bca209ece13e8cbd56d0333175a04319.jpg,"This image shows a person in a blue uniform with a face mask, gloves, and a hard hat. They are standing in a room with wooden doors and various industrial equipment.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+239_JPG_jpg.rf.d45879be3952cd8ffabc02144ea635f4.jpg,data/239_JPG_jpg.rf.d45879be3952cd8ffabc02144ea635f4.jpg,"(6) 1. guy in blue uniform with gloves and mask standing in a room with signs for ""solemn"" and ""suicide"" on a table.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+242_JPG_jpg.rf.40e18fc7f5f6666f56d8f65e94cf5423.jpg,data/242_JPG_jpg.rf.40e18fc7f5f6666f56d8f65e94cf5423.jpg,"This image shows a woman standing in a room with green gloves on her hands. She is looking at the camera. In the background, there are machines and boxes.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+245_JPG_jpg.rf.27b651b0207dba450f422a68299fbc55.jpg,data/245_JPG_jpg.rf.27b651b0207dba450f422a68299fbc55.jpg,"This woman is standing in a factory and she is wearing a black mask, blue shirt, gray pants, and she is holding an oven mitt.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+256_JPG_jpg.rf.78f24ab733fb1fdb4df884c58a0f5927.jpg,data/256_JPG_jpg.rf.78f24ab733fb1fdb4df884c58a0f5927.jpg,The man in a blue uniform stands in a room with a surfboard on a table.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+261_JPG_jpg.rf.e14734ded401ef26e82eaf1d56af5b8d.jpg,data/261_JPG_jpg.rf.e14734ded401ef26e82eaf1d56af5b8d.jpg,The man in a blue work uniform with a white hard hat is standing in a destroyed factory. He is wearing a mask to protect his face.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+270_JPG_jpg.rf.c6d5833593a3ca8d78f4290e308f3904.jpg,data/270_JPG_jpg.rf.c6d5833593a3ca8d78f4290e308f3904.jpg,This image shows a computer vision dataset for a building environment.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+277_jpg.rf.b495813976278e67a52b69390b461f51.jpg,data/277_jpg.rf.b495813976278e67a52b69390b461f51.jpg,"This image contains two images, each with a different background. The first image shows a person wearing glasses, while the second image shows a person wearing a mask.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+307_JPG_jpg.rf.7b9ae3d5263755637a4de5b994f6f282.jpg,data/307_JPG_jpg.rf.7b9ae3d5263755637a4de5b994f6f282.jpg,"The person in the image has a mask on his face, he is wearing glasses, a scarf around his neck, and he is holding his hands behind his back.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+31_JPG_jpg.rf.98097e8204f8140ef56c809607debf68.jpg,data/31_JPG_jpg.rf.98097e8204f8140ef56c809607debf68.jpg,"In this image, in the foreground there is a man wearing gloves, mask, and goggles. In the background there are buildings, windows, pillars, and other objects. The floor is covered with green and yellow color.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+329_jpg.rf.bc0f35c7b67e87b3c2b0a278b67ed766.jpg,data/329_jpg.rf.bc0f35c7b67e87b3c2b0a278b67ed766.jpg,"This is a collage of three images, the first shows a man wearing a face mask, the second shows a man wearing a face mask, and the third shows a man wearing a face mask covering his mouth and nose. The background of the first image is blurry, the background of the second image is clear, and the background of the third image is blurred.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+42_JPG_jpg.rf.be430d3472a61f996c6e8b63601cecae.jpg,data/42_JPG_jpg.rf.be430d3472a61f996c6e8b63601cecae.jpg,This man is in a welding workshop. He is wearing a white helmet and a white face mask. He is also wearing a blue shirt and a safety glasses.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+45_JPG_jpg.rf.9a9598ab1af0e0dd7fadcfe14b771699.jpg,data/45_JPG_jpg.rf.9a9598ab1af0e0dd7fadcfe14b771699.jpg,"(1) A man is standing in a room with a green and yellow striped floor. (2) He is wearing a blue polo shirt, blue jeans, and a white face mask. (3) He is holding a plastic object with his right hand. (4) He is using a green plastic object to clean his face. (5) There is an air vent in the background.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+494_jpg.rf.0c9607fb525264eb79197702627cd9e9.jpg,data/494_jpg.rf.0c9607fb525264eb79197702627cd9e9.jpg,"This image contains two collage images. The first image shows a child sitting in a car, looking at a construction site. The second image shows a construction site with a large yellow bulldozer.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+504_JPG_jpg.rf.01f066ce94cd27b737ef22e4c5a0d2bc.jpg,data/504_JPG_jpg.rf.01f066ce94cd27b737ef22e4c5a0d2bc.jpg,"In a factory, a woman in a striped shirt and blue jeans stands in front of a machine. She wears a mask over her face.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+50_JPG_jpg.rf.3e563835ac2f197c42c71f81eef918bd.jpg,data/50_JPG_jpg.rf.3e563835ac2f197c42c71f81eef918bd.jpg,"In a building, a man wears a mask around his face and gloves to protect his hands from the air.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+50_JPG_jpg.rf.85f238c6555ed3fff0de22b90596302a.jpg,data/50_JPG_jpg.rf.85f238c6555ed3fff0de22b90596302a.jpg,The woman is standing in an open room with two motorbikes and a helmet on.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+51_JPG_jpg.rf.c6ee5ceb4e4d5321f7341709a03d3465.jpg,data/51_JPG_jpg.rf.c6ee5ceb4e4d5321f7341709a03d3465.jpg,A man stands in a room with a helmet on his head and eyes towards the left side of the image.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+530_JPG_jpg.rf.370418e041665b19aea63936abb3cc08.jpg,data/530_JPG_jpg.rf.370418e041665b19aea63936abb3cc08.jpg,"A woman in blue, white, and striped dress, green glove, and white hat stands in a factory, holding her right hand out.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+545_JPG_jpg.rf.ead3a5deea2cba3bdec51ad92c6e1eec.jpg,data/545_JPG_jpg.rf.ead3a5deea2cba3bdec51ad92c6e1eec.jpg,"This woman outside a factory, she is wearing a white helmet, blue uniform, and white gloves.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+588_jpg.rf.7bed50e28c6e2bf27202fa6d9a7deb03.jpg,data/588_jpg.rf.7bed50e28c6e2bf27202fa6d9a7deb03.jpg,"This collage shows a blue car, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask, a person wearing a mask",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+588_jpg.rf.f27806dc83aeceb1c4d8e81375b6008e.jpg,data/588_jpg.rf.f27806dc83aeceb1c4d8e81375b6008e.jpg,"This is a collage of 4 images, each with a different scene and action. The first image shows a woman with glasses and a black mask covering her nose and mouth. The second image shows a woman with a black mask covering her nose and mouth. The third image shows a woman with a black mask covering her nose and mouth. The fourth image shows a woman with a black mask covering her nose and mouth.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+60_jpg.rf.b66197c105f438dac195ce553ff5a6ee.jpg,data/60_jpg.rf.b66197c105f438dac195ce553ff5a6ee.jpg,"This image contains two collage images. The top image is a photograph of a room with a white wall and a window. The bottom image is a collage of two images, one of a man and one of a bicycle. The top image contains a white wall with a window and a shelf with some objects. The bottom image contains a man and a bicycle.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+627_jpg.rf.c15d59afb45b32573f9949795bceb921.jpg,data/627_jpg.rf.c15d59afb45b32573f9949795bceb921.jpg,The collage shows a woman wearing a white face mask while working on a construction site.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+62_JPG_jpg.rf.502789079cb5e33316c1bfbd365efef8.jpg,data/62_JPG_jpg.rf.502789079cb5e33316c1bfbd365efef8.jpg,"A man stands in a large, bright, and well-lit room with yellow-green floor, yellow-green lines on the floor, and a white hard hat.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+631_JPG_jpg.rf.2de1753b0671ae3d5bf5cda53fb248b6.jpg,data/631_JPG_jpg.rf.2de1753b0671ae3d5bf5cda53fb248b6.jpg,"A man in a workshop wearing a white hard hat, a black mask, and a blue shirt is standing in front of a machine.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+635_JPG_jpg.rf.fc67bdea611efe83001e96c3636fc282.jpg,data/635_JPG_jpg.rf.fc67bdea611efe83001e96c3636fc282.jpg,"The person is wearing a blue coat, a white helmet, and flip-flops. They are standing in a room with machines and welding equipment.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+656_JPG_jpg.rf.526f48d786fa19e1b985a089f5c35c23.jpg,data/656_JPG_jpg.rf.526f48d786fa19e1b985a089f5c35c23.jpg,"The man in blue apron is operating a machine with a purple mask. He is wearing a blue shirt, red apron, and black blindfold. He is holding a screwdriver in his right hand and appears to be working on a machine.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+658_JPG_jpg.rf.9938b52b50b6d6c7bd95ea2cc3874689.jpg,data/658_JPG_jpg.rf.9938b52b50b6d6c7bd95ea2cc3874689.jpg,"Close-up, eye-level, nighttime, man in blue jacket with mask, closed-eye gesture.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+681_jpg.rf.f9be2ff4ed787411f1b588dbab09753f.jpg,data/681_jpg.rf.f9be2ff4ed787411f1b588dbab09753f.jpg,"In this image we can see orange and white color traffic cones, poles, pipes, and some objects on the floor.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+731_JPG_jpg.rf.23a5ad346b471336b1382fc927656efb.jpg,data/731_JPG_jpg.rf.23a5ad346b471336b1382fc927656efb.jpg,She is looking at the camera.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+742_JPG_jpg.rf.f37e602b238e7a9b7ddb6a5de1a1d457.jpg,data/742_JPG_jpg.rf.f37e602b238e7a9b7ddb6a5de1a1d457.jpg,"A woman is wearing a white helmet and a gray face mask. She is looking at the camera. In the background, to the right, there is a green machine with white shelves.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+74_JPG_jpg.rf.3432a1e6576ee96cba1f497f20f62d8b.jpg,data/74_JPG_jpg.rf.3432a1e6576ee96cba1f497f20f62d8b.jpg,The man stands on a concrete floor in a building with a white board and a red and blue t-shirt. He has a light blue cloth on his face.,HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+781_JPG_jpg.rf.578a21c9e230dcbd5bfa082421a60f0d.jpg,data/781_JPG_jpg.rf.578a21c9e230dcbd5bfa082421a60f0d.jpg,"In a factory, a woman in a blue work shirt and a hard hat is working on a machine.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+861_JPG_jpg.rf.de60cf471604baa29f0835fd660bb300.jpg,data/861_JPG_jpg.rf.de60cf471604baa29f0835fd660bb300.jpg,"This man is wearing a mask, gloves, and white gloves. He is in a factory. He is wearing a blue uniform and white gloves. He is in front of a yellow and green divider. He is in front of a table with some tools.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+862_JPG_jpg.rf.dd840e940b032a7bd1f3fff4cbbb4f0f.jpg,data/862_JPG_jpg.rf.dd840e940b032a7bd1f3fff4cbbb4f0f.jpg,"Image depicts a person in a factory, wearing a face mask, gloves, and a protective uniform, working on a machine, with a yellow glove on their left hand.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
+93_JPG_jpg.rf.060b6d030afd2647ce2c330c52a13c06.jpg,data/93_JPG_jpg.rf.060b6d030afd2647ce2c330c52a13c06.jpg,"The man is wearing a mask, gloves, and a blue and red shirt. He is standing in front of a board with writing on it. He is holding some sticks.",HuggingFaceTB/SmolVLM-256M-Instruct,"Describe this image for a computer vision dataset.
+Return one concise sentence in English.
+Include the main visible objects, scene, actions if any, colors, and important context.
+Do not invent hidden details. Do not use bullet points."
