@@ -1,0 +1,21 @@
+{
+  "dataset_dir": "C:\\python\\try_to_nn\\CV_ITMO\\sem_4\\dataset",
+  "num_pairs": 561,
+  "cached_pairs": 96,
+  "voxel_size": 32,
+  "image_size": 64,
+  "mean_occupancy": 0.1556987762451172,
+  "first_png": "C:\\python\\try_to_nn\\CV_ITMO\\sem_4\\dataset\\part_0000.png",
+  "first_stl": "C:\\python\\try_to_nn\\CV_ITMO\\sem_4\\dataset\\part_0000.stl",
+  "first_image_size": [
+    1024,
+    1024
+  ],
+  "first_image_mode": "RGBA",
+  "first_voxel_shape": [
+    32,
+    32,
+    32
+  ],
+  "first_voxel_occupancy": 0.14410400390625
+}

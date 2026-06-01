@@ -1,0 +1,53 @@
+[
+  {
+    "name": "model_1_baseline",
+    "model_type": "baseline",
+    "use_attention": false,
+    "epochs": 12,
+    "batch_size": 8,
+    "lr": 0.001,
+    "max_samples": 561,
+    "total": 561,
+    "train": 448,
+    "val": 113,
+    "best_epoch": 10,
+    "val_loss": 1.5472057342529297,
+    "val_iou": 0.26243640879789987,
+    "val_dice": 0.4041428744792938,
+    "checkpoint": "C:\\python\\try_to_nn\\CV_ITMO\\sem_4\\artifacts\\checkpoints\\model_1_baseline.pt"
+  },
+  {
+    "name": "model_2_attention",
+    "model_type": "attention",
+    "use_attention": true,
+    "epochs": 12,
+    "batch_size": 8,
+    "lr": 0.001,
+    "max_samples": 561,
+    "total": 561,
+    "train": 448,
+    "val": 113,
+    "best_epoch": 11,
+    "val_loss": 1.4423123558362325,
+    "val_iou": 0.3105873097976049,
+    "val_dice": 0.45809855063756305,
+    "checkpoint": "C:\\python\\try_to_nn\\CV_ITMO\\sem_4\\artifacts\\checkpoints\\model_2_attention.pt"
+  },
+  {
+    "name": "model_3_residual_attention",
+    "model_type": "residual_attention",
+    "use_attention": true,
+    "epochs": 12,
+    "batch_size": 8,
+    "lr": 0.001,
+    "max_samples": 561,
+    "total": 561,
+    "train": 448,
+    "val": 113,
+    "best_epoch": 12,
+    "val_loss": 1.3613084554672241,
+    "val_iou": 0.3132423837979635,
+    "val_dice": 0.4612146397431692,
+    "checkpoint": "C:\\python\\try_to_nn\\CV_ITMO\\sem_4\\artifacts\\checkpoints\\model_3_residual_attention.pt"
+  }
+]

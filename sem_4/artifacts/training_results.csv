@@ -1,0 +1,4 @@
+name,model_type,use_attention,epochs,batch_size,lr,max_samples,total,train,val,best_epoch,val_loss,val_iou,val_dice,checkpoint
+model_1_baseline,baseline,False,12,8,0.001,561,561,448,113,10,1.5472057342529297,0.26243640879789987,0.4041428744792938,C:\python\try_to_nn\CV_ITMO\sem_4\artifacts\checkpoints\model_1_baseline.pt
+model_2_attention,attention,True,12,8,0.001,561,561,448,113,11,1.4423123558362325,0.3105873097976049,0.45809855063756305,C:\python\try_to_nn\CV_ITMO\sem_4\artifacts\checkpoints\model_2_attention.pt
+model_3_residual_attention,residual_attention,True,12,8,0.001,561,561,448,113,12,1.3613084554672241,0.3132423837979635,0.4612146397431692,C:\python\try_to_nn\CV_ITMO\sem_4\artifacts\checkpoints\model_3_residual_attention.pt
